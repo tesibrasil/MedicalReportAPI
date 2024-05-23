@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B/+Myu04A1XIUm45atGTQRfHOhubTAl8wVFET6kO/EU=",
+  "Source": "ImportMedicalReportAPI",
+  "BasePath": "_content/ImportMedicalReportAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
